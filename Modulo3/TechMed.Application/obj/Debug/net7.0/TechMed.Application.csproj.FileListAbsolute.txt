@@ -1,0 +1,17 @@
+/home/lorena-andrade-santos/Documentos/tic18_dotnet/ExemplosAula/Modulo3/TechMed.Application/bin/Debug/net7.0/TechMed.Application.deps.json
+/home/lorena-andrade-santos/Documentos/tic18_dotnet/ExemplosAula/Modulo3/TechMed.Application/bin/Debug/net7.0/TechMed.Application.dll
+/home/lorena-andrade-santos/Documentos/tic18_dotnet/ExemplosAula/Modulo3/TechMed.Application/bin/Debug/net7.0/TechMed.Application.pdb
+/home/lorena-andrade-santos/Documentos/tic18_dotnet/ExemplosAula/Modulo3/TechMed.Application/bin/Debug/net7.0/TechMed.Core.dll
+/home/lorena-andrade-santos/Documentos/tic18_dotnet/ExemplosAula/Modulo3/TechMed.Application/bin/Debug/net7.0/TechMed.Infrastructure.dll
+/home/lorena-andrade-santos/Documentos/tic18_dotnet/ExemplosAula/Modulo3/TechMed.Application/bin/Debug/net7.0/TechMed.Core.pdb
+/home/lorena-andrade-santos/Documentos/tic18_dotnet/ExemplosAula/Modulo3/TechMed.Application/bin/Debug/net7.0/TechMed.Infrastructure.pdb
+/home/lorena-andrade-santos/Documentos/tic18_dotnet/ExemplosAula/Modulo3/TechMed.Application/obj/Debug/net7.0/TechMed.Application.csproj.AssemblyReference.cache
+/home/lorena-andrade-santos/Documentos/tic18_dotnet/ExemplosAula/Modulo3/TechMed.Application/obj/Debug/net7.0/TechMed.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/lorena-andrade-santos/Documentos/tic18_dotnet/ExemplosAula/Modulo3/TechMed.Application/obj/Debug/net7.0/TechMed.Application.AssemblyInfoInputs.cache
+/home/lorena-andrade-santos/Documentos/tic18_dotnet/ExemplosAula/Modulo3/TechMed.Application/obj/Debug/net7.0/TechMed.Application.AssemblyInfo.cs
+/home/lorena-andrade-santos/Documentos/tic18_dotnet/ExemplosAula/Modulo3/TechMed.Application/obj/Debug/net7.0/TechMed.Application.csproj.CoreCompileInputs.cache
+/home/lorena-andrade-santos/Documentos/tic18_dotnet/ExemplosAula/Modulo3/TechMed.Application/obj/Debug/net7.0/TechMed.Application.csproj.CopyComplete
+/home/lorena-andrade-santos/Documentos/tic18_dotnet/ExemplosAula/Modulo3/TechMed.Application/obj/Debug/net7.0/TechMed.Application.dll
+/home/lorena-andrade-santos/Documentos/tic18_dotnet/ExemplosAula/Modulo3/TechMed.Application/obj/Debug/net7.0/refint/TechMed.Application.dll
+/home/lorena-andrade-santos/Documentos/tic18_dotnet/ExemplosAula/Modulo3/TechMed.Application/obj/Debug/net7.0/TechMed.Application.pdb
+/home/lorena-andrade-santos/Documentos/tic18_dotnet/ExemplosAula/Modulo3/TechMed.Application/obj/Debug/net7.0/ref/TechMed.Application.dll
