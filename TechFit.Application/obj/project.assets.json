@@ -1,0 +1,111 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "TechFit.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/TechFit.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TechFit.Core.dll": {}
+        }
+      },
+      "TechFit.Infra/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "TechFit.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/TechFit.Infra.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TechFit.Infra.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TechFit.Core/1.0.0": {
+      "type": "project",
+      "path": "../TechFit.Core/TechFit.Core.csproj",
+      "msbuildProject": "../TechFit.Core/TechFit.Core.csproj"
+    },
+    "TechFit.Infra/1.0.0": {
+      "type": "project",
+      "path": "../TechFit.Infra/TechFit.Infra.csproj",
+      "msbuildProject": "../TechFit.Infra/TechFit.Infra.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "TechFit.Core >= 1.0.0",
+      "TechFit.Infra >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/home/lores/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/lores/tic18/projetos/novoAcademia/TechFit.Application/TechFit.Application.csproj",
+      "projectName": "TechFit.Application",
+      "projectPath": "/home/lores/tic18/projetos/novoAcademia/TechFit.Application/TechFit.Application.csproj",
+      "packagesPath": "/home/lores/.nuget/packages/",
+      "outputPath": "/home/lores/tic18/projetos/novoAcademia/TechFit.Application/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/lores/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "/home/lores/tic18/projetos/novoAcademia/TechFit.Core/TechFit.Core.csproj": {
+              "projectPath": "/home/lores/tic18/projetos/novoAcademia/TechFit.Core/TechFit.Core.csproj"
+            },
+            "/home/lores/tic18/projetos/novoAcademia/TechFit.Infra/TechFit.Infra.csproj": {
+              "projectPath": "/home/lores/tic18/projetos/novoAcademia/TechFit.Infra/TechFit.Infra.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.114/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

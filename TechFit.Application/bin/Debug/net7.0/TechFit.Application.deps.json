@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "TechFit.Application/1.0.0": {
+        "dependencies": {
+          "TechFit.Core": "1.0.0",
+          "TechFit.Infra": "1.0.0"
+        },
+        "runtime": {
+          "TechFit.Application.dll": {}
+        }
+      },
+      "TechFit.Core/1.0.0": {
+        "runtime": {
+          "TechFit.Core.dll": {}
+        }
+      },
+      "TechFit.Infra/1.0.0": {
+        "dependencies": {
+          "TechFit.Core": "1.0.0"
+        },
+        "runtime": {
+          "TechFit.Infra.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TechFit.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TechFit.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TechFit.Infra/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

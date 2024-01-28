@@ -1,0 +1,15 @@
+/home/lores/tic18/projetos/novoAcademia/TechFit.Infra/bin/Debug/net7.0/TechFit.Infra.deps.json
+/home/lores/tic18/projetos/novoAcademia/TechFit.Infra/bin/Debug/net7.0/TechFit.Infra.dll
+/home/lores/tic18/projetos/novoAcademia/TechFit.Infra/bin/Debug/net7.0/TechFit.Infra.pdb
+/home/lores/tic18/projetos/novoAcademia/TechFit.Infra/bin/Debug/net7.0/TechFit.Core.dll
+/home/lores/tic18/projetos/novoAcademia/TechFit.Infra/bin/Debug/net7.0/TechFit.Core.pdb
+/home/lores/tic18/projetos/novoAcademia/TechFit.Infra/obj/Debug/net7.0/TechFit.Infra.csproj.AssemblyReference.cache
+/home/lores/tic18/projetos/novoAcademia/TechFit.Infra/obj/Debug/net7.0/TechFit.Infra.GeneratedMSBuildEditorConfig.editorconfig
+/home/lores/tic18/projetos/novoAcademia/TechFit.Infra/obj/Debug/net7.0/TechFit.Infra.AssemblyInfoInputs.cache
+/home/lores/tic18/projetos/novoAcademia/TechFit.Infra/obj/Debug/net7.0/TechFit.Infra.AssemblyInfo.cs
+/home/lores/tic18/projetos/novoAcademia/TechFit.Infra/obj/Debug/net7.0/TechFit.Infra.csproj.CoreCompileInputs.cache
+/home/lores/tic18/projetos/novoAcademia/TechFit.Infra/obj/Debug/net7.0/TechFit.Infra.csproj.CopyComplete
+/home/lores/tic18/projetos/novoAcademia/TechFit.Infra/obj/Debug/net7.0/TechFit.Infra.dll
+/home/lores/tic18/projetos/novoAcademia/TechFit.Infra/obj/Debug/net7.0/refint/TechFit.Infra.dll
+/home/lores/tic18/projetos/novoAcademia/TechFit.Infra/obj/Debug/net7.0/TechFit.Infra.pdb
+/home/lores/tic18/projetos/novoAcademia/TechFit.Infra/obj/Debug/net7.0/ref/TechFit.Infra.dll
