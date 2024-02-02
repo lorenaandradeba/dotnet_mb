@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/lores/tic18/projetos/novoAcademia/TechFit.Core/TechFit.Core.csproj": {}
+    "/home/lores/tic18/projetos/dotnet_mb/TechFit.Core/TechFit.Core.csproj": {}
   },
   "projects": {
-    "/home/lores/tic18/projetos/novoAcademia/TechFit.Core/TechFit.Core.csproj": {
+    "/home/lores/tic18/projetos/dotnet_mb/TechFit.Core/TechFit.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/lores/tic18/projetos/novoAcademia/TechFit.Core/TechFit.Core.csproj",
+        "projectUniqueName": "/home/lores/tic18/projetos/dotnet_mb/TechFit.Core/TechFit.Core.csproj",
         "projectName": "TechFit.Core",
-        "projectPath": "/home/lores/tic18/projetos/novoAcademia/TechFit.Core/TechFit.Core.csproj",
+        "projectPath": "/home/lores/tic18/projetos/dotnet_mb/TechFit.Core/TechFit.Core.csproj",
         "packagesPath": "/home/lores/.nuget/packages/",
-        "outputPath": "/home/lores/tic18/projetos/novoAcademia/TechFit.Core/obj/",
+        "outputPath": "/home/lores/tic18/projetos/dotnet_mb/TechFit.Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/lores/.nuget/NuGet/NuGet.Config"

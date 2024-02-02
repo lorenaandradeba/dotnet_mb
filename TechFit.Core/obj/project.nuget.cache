@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZT6Q5T39GwIOy4YHhV9h1ZPbtYPuzw0NHUFmH8np/m6XZ7uVrcPYtjRsRZPdJA0Q2Si5UAgCDT35ko7iQCyKow==",
+  "dgSpecHash": "v6QljJCM4sUsHuTEOPfCpdXR3iWxBKXT+oW5iqrfULx900f57/1zjZSwwvR7GIPDGqhgvu0W1Hsd6W0Ti2Jl8w==",
   "success": true,
-  "projectFilePath": "/home/lores/tic18/projetos/novoAcademia/TechFit.Core/TechFit.Core.csproj",
+  "projectFilePath": "/home/lores/tic18/projetos/dotnet_mb/TechFit.Core/TechFit.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

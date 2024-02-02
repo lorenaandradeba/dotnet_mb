@@ -10,3 +10,15 @@
 /home/lores/tic18/projetos/novoAcademia/TechFit.Core/obj/Debug/net7.0/refint/TechFit.Core.dll
 /home/lores/tic18/projetos/novoAcademia/TechFit.Core/obj/Debug/net7.0/TechFit.Core.pdb
 /home/lores/tic18/projetos/novoAcademia/TechFit.Core/obj/Debug/net7.0/ref/TechFit.Core.dll
+/home/lores/tic18/projetos/dotnet_mb/TechFit.Core/bin/Debug/net7.0/TechFit.Core.deps.json
+/home/lores/tic18/projetos/dotnet_mb/TechFit.Core/bin/Debug/net7.0/TechFit.Core.dll
+/home/lores/tic18/projetos/dotnet_mb/TechFit.Core/bin/Debug/net7.0/TechFit.Core.pdb
+/home/lores/tic18/projetos/dotnet_mb/TechFit.Core/obj/Debug/net7.0/TechFit.Core.csproj.AssemblyReference.cache
+/home/lores/tic18/projetos/dotnet_mb/TechFit.Core/obj/Debug/net7.0/TechFit.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/lores/tic18/projetos/dotnet_mb/TechFit.Core/obj/Debug/net7.0/TechFit.Core.AssemblyInfoInputs.cache
+/home/lores/tic18/projetos/dotnet_mb/TechFit.Core/obj/Debug/net7.0/TechFit.Core.AssemblyInfo.cs
+/home/lores/tic18/projetos/dotnet_mb/TechFit.Core/obj/Debug/net7.0/TechFit.Core.csproj.CoreCompileInputs.cache
+/home/lores/tic18/projetos/dotnet_mb/TechFit.Core/obj/Debug/net7.0/TechFit.Core.dll
+/home/lores/tic18/projetos/dotnet_mb/TechFit.Core/obj/Debug/net7.0/refint/TechFit.Core.dll
+/home/lores/tic18/projetos/dotnet_mb/TechFit.Core/obj/Debug/net7.0/TechFit.Core.pdb
+/home/lores/tic18/projetos/dotnet_mb/TechFit.Core/obj/Debug/net7.0/ref/TechFit.Core.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/lores/tic18/projetos/novoAcademia/TechFit.Application/TechFit.Application.csproj": {}
+    "/home/lores/tic18/projetos/dotnet_mb/TechFit.Application/TechFit.Application.csproj": {}
   },
   "projects": {
-    "/home/lores/tic18/projetos/novoAcademia/TechFit.Application/TechFit.Application.csproj": {
+    "/home/lores/tic18/projetos/dotnet_mb/TechFit.Application/TechFit.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/lores/tic18/projetos/novoAcademia/TechFit.Application/TechFit.Application.csproj",
+        "projectUniqueName": "/home/lores/tic18/projetos/dotnet_mb/TechFit.Application/TechFit.Application.csproj",
         "projectName": "TechFit.Application",
-        "projectPath": "/home/lores/tic18/projetos/novoAcademia/TechFit.Application/TechFit.Application.csproj",
+        "projectPath": "/home/lores/tic18/projetos/dotnet_mb/TechFit.Application/TechFit.Application.csproj",
         "packagesPath": "/home/lores/.nuget/packages/",
-        "outputPath": "/home/lores/tic18/projetos/novoAcademia/TechFit.Application/obj/",
+        "outputPath": "/home/lores/tic18/projetos/dotnet_mb/TechFit.Application/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/lores/.nuget/NuGet/NuGet.Config"
@@ -26,11 +26,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/home/lores/tic18/projetos/novoAcademia/TechFit.Core/TechFit.Core.csproj": {
-                "projectPath": "/home/lores/tic18/projetos/novoAcademia/TechFit.Core/TechFit.Core.csproj"
+              "/home/lores/tic18/projetos/dotnet_mb/TechFit.Core/TechFit.Core.csproj": {
+                "projectPath": "/home/lores/tic18/projetos/dotnet_mb/TechFit.Core/TechFit.Core.csproj"
               },
-              "/home/lores/tic18/projetos/novoAcademia/TechFit.Infra/TechFit.Infra.csproj": {
-                "projectPath": "/home/lores/tic18/projetos/novoAcademia/TechFit.Infra/TechFit.Infra.csproj"
+              "/home/lores/tic18/projetos/dotnet_mb/TechFit.Infra/TechFit.Infra.csproj": {
+                "projectPath": "/home/lores/tic18/projetos/dotnet_mb/TechFit.Infra/TechFit.Infra.csproj"
               }
             }
           }
@@ -64,14 +64,14 @@
         }
       }
     },
-    "/home/lores/tic18/projetos/novoAcademia/TechFit.Core/TechFit.Core.csproj": {
+    "/home/lores/tic18/projetos/dotnet_mb/TechFit.Core/TechFit.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/lores/tic18/projetos/novoAcademia/TechFit.Core/TechFit.Core.csproj",
+        "projectUniqueName": "/home/lores/tic18/projetos/dotnet_mb/TechFit.Core/TechFit.Core.csproj",
         "projectName": "TechFit.Core",
-        "projectPath": "/home/lores/tic18/projetos/novoAcademia/TechFit.Core/TechFit.Core.csproj",
+        "projectPath": "/home/lores/tic18/projetos/dotnet_mb/TechFit.Core/TechFit.Core.csproj",
         "packagesPath": "/home/lores/.nuget/packages/",
-        "outputPath": "/home/lores/tic18/projetos/novoAcademia/TechFit.Core/obj/",
+        "outputPath": "/home/lores/tic18/projetos/dotnet_mb/TechFit.Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/lores/.nuget/NuGet/NuGet.Config"
@@ -117,14 +117,14 @@
         }
       }
     },
-    "/home/lores/tic18/projetos/novoAcademia/TechFit.Infra/TechFit.Infra.csproj": {
+    "/home/lores/tic18/projetos/dotnet_mb/TechFit.Infra/TechFit.Infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/lores/tic18/projetos/novoAcademia/TechFit.Infra/TechFit.Infra.csproj",
+        "projectUniqueName": "/home/lores/tic18/projetos/dotnet_mb/TechFit.Infra/TechFit.Infra.csproj",
         "projectName": "TechFit.Infra",
-        "projectPath": "/home/lores/tic18/projetos/novoAcademia/TechFit.Infra/TechFit.Infra.csproj",
+        "projectPath": "/home/lores/tic18/projetos/dotnet_mb/TechFit.Infra/TechFit.Infra.csproj",
         "packagesPath": "/home/lores/.nuget/packages/",
-        "outputPath": "/home/lores/tic18/projetos/novoAcademia/TechFit.Infra/obj/",
+        "outputPath": "/home/lores/tic18/projetos/dotnet_mb/TechFit.Infra/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/lores/.nuget/NuGet/NuGet.Config"
@@ -139,8 +139,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/home/lores/tic18/projetos/novoAcademia/TechFit.Core/TechFit.Core.csproj": {
-                "projectPath": "/home/lores/tic18/projetos/novoAcademia/TechFit.Core/TechFit.Core.csproj"
+              "/home/lores/tic18/projetos/dotnet_mb/TechFit.Core/TechFit.Core.csproj": {
+                "projectPath": "/home/lores/tic18/projetos/dotnet_mb/TechFit.Core/TechFit.Core.csproj"
               }
             }
           }
@@ -154,6 +154,32 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[7.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.15, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
