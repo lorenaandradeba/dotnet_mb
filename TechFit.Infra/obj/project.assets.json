@@ -1042,19 +1042,19 @@
     ]
   },
   "packageFolders": {
-    "/home/lores/.nuget/packages/": {}
+    "/home/lorena-andrade-santos/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/lores/tic18/projetos/dotnet_mb/TechFit.Infra/TechFit.Infra.csproj",
+      "projectUniqueName": "/home/lorena-andrade-santos/Documentos/TechFit/dotnet_mb/TechFit.Infra/TechFit.Infra.csproj",
       "projectName": "TechFit.Infra",
-      "projectPath": "/home/lores/tic18/projetos/dotnet_mb/TechFit.Infra/TechFit.Infra.csproj",
-      "packagesPath": "/home/lores/.nuget/packages/",
-      "outputPath": "/home/lores/tic18/projetos/dotnet_mb/TechFit.Infra/obj/",
+      "projectPath": "/home/lorena-andrade-santos/Documentos/TechFit/dotnet_mb/TechFit.Infra/TechFit.Infra.csproj",
+      "packagesPath": "/home/lorena-andrade-santos/.nuget/packages/",
+      "outputPath": "/home/lorena-andrade-santos/Documentos/TechFit/dotnet_mb/TechFit.Infra/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/lores/.nuget/NuGet/NuGet.Config"
+        "/home/lorena-andrade-santos/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -1066,8 +1066,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/home/lores/tic18/projetos/dotnet_mb/TechFit.Core/TechFit.Core.csproj": {
-              "projectPath": "/home/lores/tic18/projetos/dotnet_mb/TechFit.Core/TechFit.Core.csproj"
+            "/home/lorena-andrade-santos/Documentos/TechFit/dotnet_mb/TechFit.Core/TechFit.Core.csproj": {
+              "projectPath": "/home/lorena-andrade-santos/Documentos/TechFit/dotnet_mb/TechFit.Core/TechFit.Core.csproj"
             }
           }
         }
@@ -1123,7 +1123,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.114/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.115/RuntimeIdentifierGraph.json"
       }
     }
   }

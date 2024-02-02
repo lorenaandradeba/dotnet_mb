@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TechFit.Infra
-build_property.ProjectDir = /home/lores/tic18/projetos/dotnet_mb/TechFit.Infra/
+build_property.ProjectDir = /home/lorena-andrade-santos/Documentos/TechFit/dotnet_mb/TechFit.Infra/

@@ -1,4 +1,3 @@
-
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,13 +8,13 @@ using TechFit.Core.Entities;
 
 namespace TechFit.Infra.Configurations
 {
-    public class TreinadorConfigurations : IEntityTypeConfiguration<Treinador>
+    public class ExercicioConfigurations: IEntityTypeConfiguration<Exercicio>
     {
-        public void Configure(EntityTypeBuilder<Treinador> builder)
+        public void Configure(EntityTypeBuilder<Exercicio> builder)
         {
             builder
-            .ToTable("Treinadores")
-            .HasKey(t => t.TreinadorId);
+            .ToTable("Exercicios")
+            .HasKey(e => e.ExercicioId);
         }
     }
 }

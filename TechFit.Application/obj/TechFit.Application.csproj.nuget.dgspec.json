@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/lores/tic18/projetos/dotnet_mb/TechFit.Application/TechFit.Application.csproj": {}
+    "/home/lorena-andrade-santos/Documentos/TechFit/dotnet_mb/TechFit.Application/TechFit.Application.csproj": {}
   },
   "projects": {
-    "/home/lores/tic18/projetos/dotnet_mb/TechFit.Application/TechFit.Application.csproj": {
+    "/home/lorena-andrade-santos/Documentos/TechFit/dotnet_mb/TechFit.Application/TechFit.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/lores/tic18/projetos/dotnet_mb/TechFit.Application/TechFit.Application.csproj",
+        "projectUniqueName": "/home/lorena-andrade-santos/Documentos/TechFit/dotnet_mb/TechFit.Application/TechFit.Application.csproj",
         "projectName": "TechFit.Application",
-        "projectPath": "/home/lores/tic18/projetos/dotnet_mb/TechFit.Application/TechFit.Application.csproj",
-        "packagesPath": "/home/lores/.nuget/packages/",
-        "outputPath": "/home/lores/tic18/projetos/dotnet_mb/TechFit.Application/obj/",
+        "projectPath": "/home/lorena-andrade-santos/Documentos/TechFit/dotnet_mb/TechFit.Application/TechFit.Application.csproj",
+        "packagesPath": "/home/lorena-andrade-santos/.nuget/packages/",
+        "outputPath": "/home/lorena-andrade-santos/Documentos/TechFit/dotnet_mb/TechFit.Application/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/lores/.nuget/NuGet/NuGet.Config"
+          "/home/lorena-andrade-santos/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -26,11 +26,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/home/lores/tic18/projetos/dotnet_mb/TechFit.Core/TechFit.Core.csproj": {
-                "projectPath": "/home/lores/tic18/projetos/dotnet_mb/TechFit.Core/TechFit.Core.csproj"
+              "/home/lorena-andrade-santos/Documentos/TechFit/dotnet_mb/TechFit.Core/TechFit.Core.csproj": {
+                "projectPath": "/home/lorena-andrade-santos/Documentos/TechFit/dotnet_mb/TechFit.Core/TechFit.Core.csproj"
               },
-              "/home/lores/tic18/projetos/dotnet_mb/TechFit.Infra/TechFit.Infra.csproj": {
-                "projectPath": "/home/lores/tic18/projetos/dotnet_mb/TechFit.Infra/TechFit.Infra.csproj"
+              "/home/lorena-andrade-santos/Documentos/TechFit/dotnet_mb/TechFit.Infra/TechFit.Infra.csproj": {
+                "projectPath": "/home/lorena-andrade-santos/Documentos/TechFit/dotnet_mb/TechFit.Infra/TechFit.Infra.csproj"
               }
             }
           }
@@ -60,21 +60,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.114/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.115/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/lores/tic18/projetos/dotnet_mb/TechFit.Core/TechFit.Core.csproj": {
+    "/home/lorena-andrade-santos/Documentos/TechFit/dotnet_mb/TechFit.Core/TechFit.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/lores/tic18/projetos/dotnet_mb/TechFit.Core/TechFit.Core.csproj",
+        "projectUniqueName": "/home/lorena-andrade-santos/Documentos/TechFit/dotnet_mb/TechFit.Core/TechFit.Core.csproj",
         "projectName": "TechFit.Core",
-        "projectPath": "/home/lores/tic18/projetos/dotnet_mb/TechFit.Core/TechFit.Core.csproj",
-        "packagesPath": "/home/lores/.nuget/packages/",
-        "outputPath": "/home/lores/tic18/projetos/dotnet_mb/TechFit.Core/obj/",
+        "projectPath": "/home/lorena-andrade-santos/Documentos/TechFit/dotnet_mb/TechFit.Core/TechFit.Core.csproj",
+        "packagesPath": "/home/lorena-andrade-santos/.nuget/packages/",
+        "outputPath": "/home/lorena-andrade-santos/Documentos/TechFit/dotnet_mb/TechFit.Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/lores/.nuget/NuGet/NuGet.Config"
+          "/home/lorena-andrade-santos/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -113,21 +113,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.114/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.115/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/lores/tic18/projetos/dotnet_mb/TechFit.Infra/TechFit.Infra.csproj": {
+    "/home/lorena-andrade-santos/Documentos/TechFit/dotnet_mb/TechFit.Infra/TechFit.Infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/lores/tic18/projetos/dotnet_mb/TechFit.Infra/TechFit.Infra.csproj",
+        "projectUniqueName": "/home/lorena-andrade-santos/Documentos/TechFit/dotnet_mb/TechFit.Infra/TechFit.Infra.csproj",
         "projectName": "TechFit.Infra",
-        "projectPath": "/home/lores/tic18/projetos/dotnet_mb/TechFit.Infra/TechFit.Infra.csproj",
-        "packagesPath": "/home/lores/.nuget/packages/",
-        "outputPath": "/home/lores/tic18/projetos/dotnet_mb/TechFit.Infra/obj/",
+        "projectPath": "/home/lorena-andrade-santos/Documentos/TechFit/dotnet_mb/TechFit.Infra/TechFit.Infra.csproj",
+        "packagesPath": "/home/lorena-andrade-santos/.nuget/packages/",
+        "outputPath": "/home/lorena-andrade-santos/Documentos/TechFit/dotnet_mb/TechFit.Infra/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/lores/.nuget/NuGet/NuGet.Config"
+          "/home/lorena-andrade-santos/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -139,8 +139,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/home/lores/tic18/projetos/dotnet_mb/TechFit.Core/TechFit.Core.csproj": {
-                "projectPath": "/home/lores/tic18/projetos/dotnet_mb/TechFit.Core/TechFit.Core.csproj"
+              "/home/lorena-andrade-santos/Documentos/TechFit/dotnet_mb/TechFit.Core/TechFit.Core.csproj": {
+                "projectPath": "/home/lorena-andrade-santos/Documentos/TechFit/dotnet_mb/TechFit.Core/TechFit.Core.csproj"
               }
             }
           }
@@ -196,7 +196,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.114/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.115/RuntimeIdentifierGraph.json"
         }
       }
     }
